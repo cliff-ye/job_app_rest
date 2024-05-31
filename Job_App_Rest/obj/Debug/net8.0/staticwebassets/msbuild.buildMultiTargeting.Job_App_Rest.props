@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Job_App_Rest.props" />
+</Project>

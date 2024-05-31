@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NcOxp1IRsKfUye24P/ho6Wqxww0U4E3IaO6m4kPyNPE=",
+  "Source": "Job_App_Rest",
+  "BasePath": "_content/Job_App_Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
